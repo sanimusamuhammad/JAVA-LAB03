@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Lab06\ Assignment4\r\n\r\n\ @author\ (Garba\ Ndatsu\ Mubaraq\ U15/fns/csc/025)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=s1\ s2\ s3
+comment1.target=Triangle(int,\ int,\ int)
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=double\ getRatio()
+numComments=5
